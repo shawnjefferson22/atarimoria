@@ -1,0 +1,77 @@
+#/bin/bash
+
+rm *.o *.bin *.map *.lst *.lbl
+
+rm bankcode0.s
+rm bankcode1.s
+rm bankcode2.s
+rm cast.s
+rm caveplace.s
+rm create1.s
+rm create2.s
+rm creature1.s
+rm creature2.s
+rm creature3.s
+rm creature4.s
+rm creature5.s
+rm death1.s
+rm dungeon1.s
+rm dungeon2.s
+rm dungeon3.s
+rm dungeon4.s
+rm dungeon5.s
+rm dungeon6.s
+rm dungeon7.s
+rm dungeon8.s
+rm eat1.s
+rm generate1.s
+rm generate2.s
+rm generate3.s
+rm guild.s
+rm help.s
+rm init.s
+rm inventory1.s
+rm inventory2.s
+rm io.s
+rm look.s
+rm main.s
+rm magictreasure1.s
+rm magictreasure2.s
+rm misc1.s
+rm misc2.s
+rm monsters.s
+rm objdes.s
+rm player.s
+rm prayer.s
+rm potions.s
+rm printchar1.s
+rm printchar2.s
+rm quest1.s
+rm quest2.s
+rm recall.s
+rm rnd.s
+rm save.s
+rm scrolls.s
+rm setup.s
+rm spells1.s
+rm spells2.s
+rm spells3.s
+rm spells4.s
+rm staffs.s
+rm store1.s
+rm store2.s
+rm store3.s
+rm storecmt.s
+rm tables.s
+rm tables2.s
+rm tavern1.s
+rm tavern2.s
+rm treasure.s
+rm wands.s
+rm wizard1.s
+rm wizard2.s
+rm variable.s
+rm vbxebank.s
+rm vbxetext.s
+
+
